@@ -1,0 +1,8 @@
+# Funkcja logowania
+
+To jest przykładowy plik opisujący funkcję logowania.
+
+Funkcjonalność:
+- Umożliwia użytkownikowi zalogowanie się do systemu.
+- Weryfikacja nazwy użytkownika i hasła.
+- Obsługa błędów przy niepoprawnych danych.
